@@ -6,6 +6,16 @@
 
 Este projeto é a implementação de uma **Landing Page institucional** para a "Trilha de CSS" da DIO (Digital Innovation One). Desenvolvida com **HTML e CSS puros**, a página tem como objetivo apresentar o conteúdo do curso de forma clara e visualmente atraente, convidando o usuário à inscrição. É um exemplo prático de como construir interfaces web otimizadas para a divulgação de produtos e conteúdos educacionais.
 
+### 💻 Primeira seção
+![image](https://github.com/user-attachments/assets/1fdfada8-a438-49a5-9a9c-b48877235263)
+### 💻 Segunda seção
+![image](https://github.com/user-attachments/assets/ed127718-8c1a-45b8-8fea-c85ae50f3241)
+### 💻 Terceira seção
+![image](https://github.com/user-attachments/assets/276694f5-c4e2-4460-a57b-1f3b03a1697a)
+
+
+
+
 ## ✨ Funcionalidades e Destaques Técnicos
 
 * **Design Responsivo:** A página foi construída pensando na adaptabilidade para diferentes tamanhos de tela, garantindo uma boa experiência tanto em desktops quanto em dispositivos móveis.
