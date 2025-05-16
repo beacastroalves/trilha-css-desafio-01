@@ -8,13 +8,6 @@ Este projeto é a implementação de uma **Landing Page institucional** para a "
 
 ### 💻 Primeira seção
 ![image](https://github.com/user-attachments/assets/1fdfada8-a438-49a5-9a9c-b48877235263)
-### 💻 Segunda seção
-![image](https://github.com/user-attachments/assets/ed127718-8c1a-45b8-8fea-c85ae50f3241)
-### 💻 Terceira seção
-![image](https://github.com/user-attachments/assets/276694f5-c4e2-4460-a57b-1f3b03a1697a)
-
-
-
 
 ## ✨ Funcionalidades e Destaques Técnicos
 
@@ -27,11 +20,18 @@ Este projeto é a implementação de uma **Landing Page institucional** para a "
 * **Conteúdo Estruturado:** Apresentação clara dos módulos do curso e dos benefícios de inscrição, guiando o usuário através das informações essenciais.
 * **Chamada para Ação (CTA):** Botão de inscrição em destaque para incentivar a conversão.
 
+### 💻 Segunda seção
+![image](https://github.com/user-attachments/assets/ed127718-8c1a-45b8-8fea-c85ae50f3241)
+
+
 ## 🛠️ Tecnologias Principais
 
 * **HTML5:** Para a estrutura e marcação semântica da página.
 * **CSS3:** Para toda a estilização, incluindo layout, cores, tipografia, efeitos visuais e responsividade.
 * **Google Fonts:** Utilizado para importar as fontes `Raleway`, `Roboto Slab` e `Roboto`, garantindo uma tipografia consistente e atraente.
+
+### 💻 Terceira seção
+![image](https://github.com/user-attachments/assets/276694f5-c4e2-4460-a57b-1f3b03a1697a)
 
 ## 💡 Aprendizados e Desenvolvimento
 
